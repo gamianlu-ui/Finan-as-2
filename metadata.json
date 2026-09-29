@@ -1,0 +1,6 @@
+{
+  "name": "Fluxo Minimalista",
+  "description": "Controle financeiro e operacional minimalista em dark mode com divisão de tela, snap scroll horizontal e caixa inteligente central.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
